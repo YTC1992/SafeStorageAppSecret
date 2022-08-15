@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("edaca859-88b0-4b99-92ba-26bcfe5c1be7")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SafeStorageAppSecrst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
