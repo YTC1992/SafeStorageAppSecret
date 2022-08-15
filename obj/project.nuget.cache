@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9F7cnRVvCLFs8GJCrlWLWmZ1f7fh1nhE5YvGFF0P6B8eWH2oSIUPMRam7yqF4Ih/NOCjpViJj+Fg1ZMSubnCg==",
+  "success": true,
+  "projectFilePath": "C:\\YT_Dev\\SafeStorageAppSecrst-ASPNETCore\\SafeStorageAppSecrst\\SafeStorageAppSecrst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yun\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
